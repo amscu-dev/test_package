@@ -1,5 +1,11 @@
 # @amscu/test-package
 
+## 2.0.0-alpha.0
+
+### Major Changes
+
+- 79cf99e: Created a monarch cats morning greet
+
 ## 1.2.0
 
 ### Minor Changes
