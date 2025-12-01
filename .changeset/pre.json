@@ -4,5 +4,8 @@
   "initialVersions": {
     "@amscu/test-package": "1.2.0"
   },
-  "changesets": ["brave-turtles-kick"]
+  "changesets": [
+    "brave-turtles-kick",
+    "khaki-cows-try"
+  ]
 }

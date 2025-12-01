@@ -1,5 +1,11 @@
 # @amscu/test-package
 
+## 2.0.0-beta.1
+
+### Major Changes
+
+- c56aae7: Added Grumpy & Rudolf to monarch cats
+
 ## 2.0.0-alpha.0
 
 ### Major Changes
