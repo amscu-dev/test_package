@@ -1,5 +1,11 @@
 # @amscu/test-package
 
+## 2.0.0
+
+### Major Changes
+
+- 79cf99e: Created a monarch cats morning greet
+- c56aae7: Added Grumpy & Rudolf to monarch cats
 
 ## 2.0.0-beta.1
 
@@ -18,7 +24,6 @@
 ### Patch Changes
 
 - 3adaae3: Night greet changed
-
 
 ## 1.2.0
 
