@@ -1,5 +1,6 @@
 # @amscu/test-package
 
+
 ## 2.0.0-beta.1
 
 ### Major Changes
@@ -11,6 +12,13 @@
 ### Major Changes
 
 - 79cf99e: Created a monarch cats morning greet
+
+## 1.2.1
+
+### Patch Changes
+
+- 3adaae3: Night greet changed
+
 
 ## 1.2.0
 
