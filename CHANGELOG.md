@@ -1,5 +1,11 @@
 # @amscu/test-package
 
+## 1.2.1
+
+### Patch Changes
+
+- 3adaae3: Night greet changed
+
 ## 1.2.0
 
 ### Minor Changes
